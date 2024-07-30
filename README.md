@@ -1,1 +1,2 @@
 # TravelManagementSystem
+The Travel Management System is a comprehensive application designed to manage various travel-related activities, such as booking flights, hotels. Developed using Java, this system aims to simplify and streamline the process of organizing travel for both individuals and organizations. The system features a user-friendly interface and robust backend, ensuring a seamless experience for all users.
